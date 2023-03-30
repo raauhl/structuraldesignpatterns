@@ -1,0 +1,4 @@
+﻿Works as a bridge between two incompatible interfaces. A card reader acts an adapter
+between the memory card and laptop. A power adapter acts as an interface between the
+device and power source.
+
